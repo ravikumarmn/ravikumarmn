@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravikumarmn
-- 👀 I’m interested in Reinforcement learning
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in Deep learning
+- 🌱 I’m currently Working on  Machine learning.
 - 📫 How to reach me : ravikumarnaduvin@gmail.com
 
 <!---
