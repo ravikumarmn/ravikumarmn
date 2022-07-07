@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ravikumarmn
-- 👀 Interested in Artificial Intelligence.
+- 👀 Interested in deep learning.
 - 🌱 Currently Working on  Deep Learning.
 - 📫 How to reach me : ravikumarnaduvin@gmail.com
 
