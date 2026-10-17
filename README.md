@@ -1,4 +1,4 @@
-# Ravikumar M. N.
+# Ravikumar Naduvin
 
 **Senior AI Engineer at C5i** · Bengaluru, India · Open to full-time senior AI engineering roles
 
